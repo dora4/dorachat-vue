@@ -1,7 +1,12 @@
 <template>
   <div class="about">
     <h1>
-      <a href="https://dora4.oss-cn-hangzhou.aliyuncs.com/app-alpha-debug.apk">点击下载DoraChat内测版本APK</a>
+      <p>
+      <a href="https://www.pgyer.com/privacybox">隐私保险箱，DoraChat出品</a>
+      </p>
+      <p>
+      <a href="https://www.pgyer.com/dorachat">点击下载DoraChat内测版本APK</a>
+      </p>
     </h1>
   </div>
 </template>
