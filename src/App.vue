@@ -11,8 +11,8 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Dora Chat" />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">Download</RouterLink>
+        <RouterLink to="/">首页</RouterLink>
+        <RouterLink to="/download">下载</RouterLink>
       </nav>
     </div>
   </header>

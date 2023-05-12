@@ -8,79 +8,43 @@ import SupportIcon from './icons/IconSupport.vue'
 </script>
 
 <template>
-  <WelcomeItem>
-    <template #icon>
-      <DocumentationIcon />
-    </template>
-    <template #heading>Documentation</template>
-
-    Vue’s
-    <a href="https://vuejs.org/" target="_blank" rel="noopener">official documentation</a>
-    provides you with all information you need to get started.
-  </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>Tooling</template>
+    <template #heading>隐私保险箱</template>
+    <h6>
+    隐私是每个人都应该得到尊重和保护的基本权利。但是，随着社交媒体和数字通信的普及，我们的个人隐私越来越容易受到侵犯。因此，我们需要一种可以帮助我们保护个人隐私的工具，而这个工具就是【隐私保险箱】。
 
-    This project is served and bundled with
-    <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>. The
-    recommended IDE setup is
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
-    <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. If
-    you need to test your components and web pages, check out
-    <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
-    <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a>.
+    【隐私保险箱】是一款特殊的应用程序，它可以让您将敏感或私人内容锁定起来。通过使用【隐私保险箱】，您可以保护这些内容不被任何人偷窥、窃取或滥用，甚至是您自己。
 
+    【隐私保险箱】的最大特点是，您可以将这些内容锁定起来并设定一个特定的日期和时间，在此之前，这些内容无法被解锁。这意味着，如果您有任何敏感内容需要妥善保护，您可以使用【隐私保险箱】将其保护起来，并设置未来的日期和时间，这样，即使您失去了手机，隐私数据也不会丢失。
+
+    总之，如果您在保护个人隐私方面非常注重，那么【隐私保险箱】是一款您绝不能错过的应用程序，您可以通过它将隐私内容拆分后分散保存以保护您的隐私。
+    </h6>
     <br />
-
-    More instructions are available in <code>README.md</code>.
-  </WelcomeItem>
-
-  <WelcomeItem>
-    <template #icon>
-      <EcosystemIcon />
-    </template>
-    <template #heading>Ecosystem</template>
-
-    Get official tools and libraries for your project:
-    <a href="https://pinia.vuejs.org/" target="_blank" rel="noopener">Pinia</a>,
-    <a href="https://router.vuejs.org/" target="_blank" rel="noopener">Vue Router</a>,
-    <a href="https://test-utils.vuejs.org/" target="_blank" rel="noopener">Vue Test Utils</a>, and
-    <a href="https://github.com/vuejs/devtools" target="_blank" rel="noopener">Vue Dev Tools</a>. If
-    you need more resources, we suggest paying
-    <a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">Awesome Vue</a>
-    a visit.
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <CommunityIcon />
     </template>
-    <template #heading>Community</template>
+    <template #heading>Dora Chat</template>
 
-    Got stuck? Ask your question on
-    <a href="https://chat.vuejs.org" target="_blank" rel="noopener">Vue Land</a>, our official
-    Discord server, or
-    <a href="https://stackoverflow.com/questions/tagged/vue.js" target="_blank" rel="noopener"
-      >StackOverflow</a
-    >. You should also subscribe to
-    <a href="https://news.vuejs.org" target="_blank" rel="noopener">our mailing list</a> and follow
-    the official
-    <a href="https://twitter.com/vuejs" target="_blank" rel="noopener">@vuejs</a>
-    twitter account for latest news in the Vue world.
+    Dora Chat是一款社交类app，支持好友聊天和群聊。
   </WelcomeItem>
 
   <WelcomeItem>
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Support Vue</template>
+    <template #heading>每日免费激活码</template>
 
-    As an independent project, Vue relies on community backing for its sustainability. You can help
-    us by
-    <a href="https://vuejs.org/sponsor/" target="_blank" rel="noopener">becoming a sponsor</a>.
+    <h6>
+    2023.5.12
+    X/j5QoCJj4p7Vruh/6On98If3p5C5KFNceZxlhijAEoB/1a1d+n95+UVBXXvDlZnwvPy cndwh71wbc4GqFD6CutvKJ+aChznD3OeX01jU4HXnYPIrX0aqtdPamYIA9CPXOOoJstJxUSF/vhMJJXX2MQTXYbpkRk wnSeXymZgOPI=
+    <a href="https://www.pgyer.com/privacybox/" target="_blank">隐私保险箱</a>
+    </h6>
   </WelcomeItem>
 </template>
