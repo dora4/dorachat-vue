@@ -42,7 +42,6 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>每日免费激活码</template>
 
     <h6>
-    2023.5.12
     X/j5QoCJj4p7Vruh/6On98If3p5C5KFNceZxlhijAEoB/1a1d+n95+UVBXXvDlZnwvPy cndwh71wbc4GqFD6CutvKJ+aChznD3OeX01jU4HXnYPIrX0aqtdPamYIA9CPXOOoJstJxUSF/vhMJJXX2MQTXYbpkRk wnSeXymZgOPI=
     <a href="https://www.pgyer.com/privacybox/" target="_blank">隐私保险箱</a>
     </h6>
