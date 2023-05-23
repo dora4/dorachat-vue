@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">首页</RouterLink>
-        <RouterLink to="/download">下载</RouterLink>
+        <RouterLink to="/activate">隐私保险箱激活码</RouterLink>
       </nav>
     </div>
   </header>
