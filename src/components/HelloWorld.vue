@@ -11,9 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      有朋友，不孤单，欢迎使用DoraChat!
-      <a href="https://github.com/dora4/" target="_blank" rel="noopener">GitHub</a> +
-      <a href="https://juejin.cn/user/2656895088205453" target="_blank" rel="noopener">稀土掘金技术社区</a>.
+      Have friends, never be alone, welcome to use DoraChat
     </h3>
   </div>
 </template>

@@ -13,28 +13,28 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <ToolingIcon />
     </template>
-    <template #heading>隐私保险箱</template>
+    <template #heading>Dora Box</template>
     <h6>
-    隐私是每个人都应该得到尊重和保护的基本权利。但是，随着社交媒体和数字通信的普及，
+Privacy is a basic right that everyone should be respected and protected. However, with the popularity of social media and digital communications,
 
-    我们的个人隐私越来越容易受到侵犯。因此，我们需要一种可以帮助我们保护个人隐私的
+     Our personal privacy is increasingly vulnerable to invasion. Therefore, we need a method that can help us protect personal privacy
 
-    工具，而这个工具就是【隐私保险箱】。【隐私保险箱】是一款特殊的应用程序，它可以
+     tool, and this tool is [Privacy Safe]. [Privacy Safe] is a special application that can
 
-    让您将敏感或私人内容锁定起来。通过使用【隐私保险箱】，您可以保护这些内容不被任
+     Lets you lock away sensitive or private content. By using [Privacy Vault], you can protect this content from any
 
-    何人偷窥、窃取或滥用，甚至是您自己。【隐私保险箱】的最大特点是，您可以将这些内
+     Who snoops, steals or misuses it, even yourself. The biggest feature of [Privacy Safe] is that you can store the contents
 
-    容锁定起来并设定一个特定的日期和时间，在此之前，这些内容无法被解锁。这意味着，
+     Once the content is locked and set to a specific date and time, the content cannot be unlocked until then. this means,
 
-    如果您有任何敏感内容需要妥善保护，您可以使用【隐私保险箱】将其保护起来，并设置
+     If you have any sensitive content that needs to be properly protected, you can use [Privacy Vault] to protect it and set
 
-    未来的日期和时间，这样，即使您失去了手机，隐私数据也不会丢失。总之，如果您在保
+     Future date and time so that even if you lose your phone, your private data will not be lost. In summary, if you are insuring
 
-    护个人隐私方面非常注重，那么【隐私保险箱】是一款您绝不能错过的应用程序，您可以
+     If you attach great importance to protecting personal privacy, then [Privacy Safe] is an application you must not miss. You can
 
-    通过它将隐私内容拆分后分散保存以保护您的隐私。
-    <a href="https://www.pgyer.com/privacybox/" target="_blank">下载安装</a>
+     It splits private content and saves it in scattered ways to protect your privacy.
+    <a href="https://www.pgyer.com/dorabox/" target="_blank">Download APK</a>
     </h6>
     <br />
   </WelcomeItem>
@@ -46,8 +46,8 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #heading>Dora Chat</template>
 
     <h6>
-    Dora Chat是一款社交类app，支持好友聊天和群聊，有朋友，不孤单，欢迎加入Dora Chat社区。
-    <a href="https://www.pgyer.com/dorachat/" target="_blank">下载安装</a>
+Dora Chat is a social app that supports friend chat and group chat. If you have friends, you are never alone. Welcome to join the Dora Chat community.
+    <a href="https://www.pgyer.com/dorachat/" target="_blank">Download APK</a>
     </h6>
   </WelcomeItem>
 
@@ -55,10 +55,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>感谢您的支持</template>
+    <template #heading>Thank you for watching</template>
 
-    <h4>
-    如果有任何建议或疑问请联系Dora Chat官方唯一客服ID：dorachat。
-    </h4>
   </WelcomeItem>
 </template>

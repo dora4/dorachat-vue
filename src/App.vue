@@ -11,8 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Dora Chat" />
 
       <nav>
-        <RouterLink to="/">首页</RouterLink>
-        <RouterLink to="/activate">隐私保险箱激活码</RouterLink>
+        <RouterLink to="/">Home</RouterLink>
       </nav>
     </div>
   </header>
