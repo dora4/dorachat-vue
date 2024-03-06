@@ -56,6 +56,6 @@ Dora Chat is a social app that supports friend chat and group chat. If you have 
       <SupportIcon />
     </template>
     <template #heading>Thank you for watching</template>
-
+     dora924666990@gmail.com
   </WelcomeItem>
 </template>
