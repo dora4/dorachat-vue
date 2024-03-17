@@ -9,7 +9,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld msg="Dora Chat" />
-
       <nav>
         <RouterLink to="/">Home</RouterLink>
       </nav>

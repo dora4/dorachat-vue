@@ -34,7 +34,10 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
      If you attach great importance to protecting personal privacy, then [Privacy Safe] is an application you must not miss. You can
 
      It splits private content and saves it in scattered ways to protect your privacy.
-    <a href="https://www.pgyer.com/dorabox/" target="_blank">Download APK</a>
+    <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.0.apk">Dora Box v1.0    </a>
+    <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.1.apk">Dora Box v1.1    </a>
+    <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.2.apk">Dora Box v1.2 Preview    </a>
+
     </h6>
     <br />
   </WelcomeItem>
