@@ -9,9 +9,9 @@
 }
 
 a,
-.green {
+.themecolor {
   text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
+  color: #BB86FC;
   transition: 0.4s;
 }
 
