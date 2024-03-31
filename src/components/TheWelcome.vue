@@ -34,10 +34,27 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
      If you attach great importance to protecting personal privacy, then [Privacy Safe] is an application you must not miss. You can
 
      It splits private content and saves it in scattered ways to protect your privacy.
-    <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.0.apk">Dora Box v1.0    </a>
-    <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.1.apk">Dora Box v1.1    </a>
-    <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.2.apk">Dora Box v1.2    </a>
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.0.apk">Dora Box v1.0</a>
+        MD5:7575550576575c3c35da5d082b0a00d7
+     </p>
+      <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.1.apk">Dora Box v1.1</a>
+        MD5:8bcdb082e43da631c79b12a6a202ae27
+     </p>
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.2.apk">Dora Box v1.2</a>
+        MD5:92ad109b4348407de19b0a10e5e8b4f2
+     </p>
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.3.apk">Dora Box v1.3</a>
+        MD5:97c996430b93dc58b501529e1ce64203
+     </p>
 
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.4.apk">Dora Box v1.4</a>
+        MD5:b3ab8eabc7e4d18da384e3cc2b4097da
+     </p>
     </h6>
     <br />
   </WelcomeItem>
@@ -50,7 +67,7 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
 
     <h6>
 Dora Chat is a social app that supports friend chat and group chat. If you have friends, you are never alone. Welcome to join the Dora Chat community.
-    <a href="https://www.pgyer.com/dorachat/" target="_blank">Download APK</a>
+    <a href="https://www.pgyer.com/dorachat/" target="_blank">Details</a>
     </h6>
   </WelcomeItem>
 
@@ -58,7 +75,9 @@ Dora Chat is a social app that supports friend chat and group chat. If you have 
     <template #icon>
       <SupportIcon />
     </template>
-    <template #heading>Thank you for watching</template>
-     dora924666990@gmail.com
+    <template #heading>Contact Us</template>
+      <p>
+         <a href="https://github.com/dora4">Github</a>
+    </p>
   </WelcomeItem>
 </template>
