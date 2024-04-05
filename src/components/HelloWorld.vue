@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="themecolor">{{ msg }}</h1>
     <h3>
-      Have friends, never be alone, welcome to use DoraChat.
+           Have friends, never be alone, welcome to use DoraChat.
     </h3>
   </div>
 </template>
