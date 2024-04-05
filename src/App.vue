@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/ic_launcher.png" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="Dora Chat" />
+      <HelloWorld msg="Dora Box" />
       <nav>
         <!-- <RouterLink to="/">Home</RouterLink> -->
       </nav>
