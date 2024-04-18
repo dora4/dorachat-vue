@@ -71,6 +71,17 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
         <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.7.apk">Dora Box v1.7</a>
         MD5:2b882df9d3232fdd967dd6cb68fd4623
      </p>
+
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.8.apk">Dora Box v1.8</a>
+        MD5:524d28f244a68f7b1f938525e01951ea
+     </p>
+
+     <p>
+        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.9.apk">Dora Box v1.9</a>
+        MD5:4bd2f2d044fd4f437eec87b8d65a3f9b
+     </p>
+
     </h6>
     <br />
   </WelcomeItem>
