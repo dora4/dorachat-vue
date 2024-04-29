@@ -87,6 +87,11 @@ Privacy is a basic right that everyone should be respected and protected. Howeve
              MD5:be3e8a5340b6fb868e9db142e3e9dd86
           </p>
 
+     <p>
+             <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.11.apk">Dora Box v1.11</a>
+             MD5:37c9ebcd3fc8d3cf9d68055e64537bae
+          </p>
+
     </h6>
     <br />
   </WelcomeItem>
