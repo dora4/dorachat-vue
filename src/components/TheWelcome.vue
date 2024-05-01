@@ -125,6 +125,9 @@ Dora Chat is a social app that supports friend chat and group chat. If you have 
     <a href="https://www.youtube.com/channel/UCtlq1G4CwMu7RXXNq-w9ZhA">Youtube</a>
      </p>
      <p>
+         <a href="https://discord.com/channels/1234248413701476352/1234248413701476354">Discord</a>
+     </p>
+     <p>
     <a href="https://github.com/dora4">Github</a>
      </p>
 
