@@ -15,85 +15,8 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Dora Box</template>
     <h6>
-Privacy is a basic right that everyone should be respected and protected. However, with the popularity of social media and digital communications,
+    <p>https://doracrypto.com</p>
 
-     Our personal privacy is increasingly vulnerable to invasion. Therefore, we need a method that can help us protect personal privacy
-
-     tool, and this tool is [Privacy Safe]. [Privacy Safe] is a special application that can
-
-     Lets you lock away sensitive or private content. By using [Privacy Vault], you can protect this content from any
-
-     Who snoops, steals or misuses it, even yourself. The biggest feature of [Privacy Safe] is that you can store the contents
-
-     Once the content is locked and set to a specific date and time, the content cannot be unlocked until then. this means,
-
-     If you have any sensitive content that needs to be properly protected, you can use [Privacy Vault] to protect it and set
-
-     Future date and time so that even if you lose your phone, your private data will not be lost. In summary, if you are insuring
-
-     If you attach great importance to protecting personal privacy, then [Privacy Safe] is an application you must not miss. You can
-
-     It splits private content and saves it in scattered ways to protect your privacy.
-     <p>Package Name : com.dorachat.privacybox</p>
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.0.apk">Dora Box v1.0</a>
-        MD5:7575550576575c3c35da5d082b0a00d7
-     </p>
-      <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.1.apk">Dora Box v1.1</a>
-        MD5:8bcdb082e43da631c79b12a6a202ae27
-     </p>
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.2.apk">Dora Box v1.2</a>
-        MD5:92ad109b4348407de19b0a10e5e8b4f2
-     </p>
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.3.apk">Dora Box v1.3</a>
-        MD5:97c996430b93dc58b501529e1ce64203
-     </p>
-
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.4.apk">Dora Box v1.4</a>
-        MD5:b3ab8eabc7e4d18da384e3cc2b4097da
-     </p>
-
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.5.apk">Dora Box v1.5</a>
-        MD5:0456d6a216ce2c005b97637efc443354
-     </p>
-
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.6.apk">Dora Box v1.6</a>
-        MD5:cec68ea73b5e8c7161b43e0bd4b93197
-     </p>
-
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.7.apk">Dora Box v1.7</a>
-        MD5:2b882df9d3232fdd967dd6cb68fd4623
-     </p>
-
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.8.apk">Dora Box v1.8</a>
-        MD5:524d28f244a68f7b1f938525e01951ea
-     </p>
-
-     <p>
-        <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.9.apk">Dora Box v1.9</a>
-        MD5:4bd2f2d044fd4f437eec87b8d65a3f9b
-     </p>
-
-     <p>
-             <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.10.apk">Dora Box v1.10</a>
-             MD5:be3e8a5340b6fb868e9db142e3e9dd86
-          </p>
-
-     <p>
-             <a href="https://dorachat.oss-cn-hongkong.aliyuncs.com/Dora_Box_1.11.apk">Dora Box v1.11</a>
-             MD5:37c9ebcd3fc8d3cf9d68055e64537bae
-          </p>
-
-    </h6>
-    <br />
   </WelcomeItem>
 
   <WelcomeItem>
@@ -116,13 +39,7 @@ Dora Chat is a social app that supports friend chat and group chat. If you have 
     <template #heading>Contact Us</template>
 
      <p>
-    <a href="https://twitter.com/bellabella10169">Twitter</a>
-     </p>
-     <p>
-    <a href="https://www.facebook.com/profile.php?id=61551819646749">Facebook</a>
-     </p>
-     <p>
-    <a href="https://www.youtube.com/channel/UCtlq1G4CwMu7RXXNq-w9ZhA">Youtube</a>
+    <a href="https://www.youtube.com/channel/UCEDRPkqMGeBN3UiqLC6Qj-g">Youtube</a>
      </p>
      <p>
          <a href="https://discord.com/channels/1234248413701476352/1234248413701476354">Discord</a>
