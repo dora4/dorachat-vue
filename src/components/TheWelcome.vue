@@ -14,8 +14,10 @@ import SupportIcon from './icons/IconSupport.vue'
       <ToolingIcon />
     </template>
     <template #heading>Dora Box</template>
-    <h6>
-    <p>https://doracrypto.com</p>
+
+    <p>
+        <a href="http://doracrypto.com">已离开Dora Chat，点此访问</a>
+    </p>
 
   </WelcomeItem>
 
