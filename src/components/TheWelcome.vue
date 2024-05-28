@@ -27,10 +27,8 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Dora Chat</template>
 
-    <h6>
 Dora Chat is a social app that supports friend chat and group chat. If you have friends, you are never alone. Welcome to join the Dora Chat community.
     <a href="https://www.pgyer.com/dorachat/" target="_blank">Details</a>
-    </h6>
   </WelcomeItem>
 
   <WelcomeItem>
@@ -48,6 +46,9 @@ Dora Chat is a social app that supports friend chat and group chat. If you have 
      </p>
      <p>
     <a href="https://github.com/dora4">Github</a>
+     </p>
+     <p>
+    <a href="https://juejin.cn/user/2656895088205453">稀土掘金技术社区</a>
      </p>
 
   </WelcomeItem>
