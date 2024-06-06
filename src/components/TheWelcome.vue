@@ -51,5 +51,8 @@ Dora Chat is a social app that supports friend chat and group chat. If you have 
     <a href="https://juejin.cn/user/2656895088205453">稀土掘金技术社区</a>
      </p>
 
+     <p>
+    <a href="https://blog.csdn.net/a_lwh____?spm=1011.2480.3001.5343">CSDN</a>
+     </p>
   </WelcomeItem>
 </template>
