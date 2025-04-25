@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="themecolor">{{ msg }}</h1>
     <h3>
-           Have friends, never be alone, welcome to use DoraChat.
+           With Dora Chat, a chat platform that prioritizes privacy and information security, you have full control over your information rights.
     </h3>
   </div>
 </template>

@@ -15,7 +15,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Dora Chat</template>
 
-Dora Chat is a social app that supports friend chat and group chat. If you have friends, you are never alone. Welcome to join the Dora Chat community.
+A Web3 social platform. Welcome to join the Dora Chat community. Welcome to join the Dora Chat community.
     <a href="https://www.pgyer.com/dorachat/" target="_blank">Details</a>
   </WelcomeItem>
 
